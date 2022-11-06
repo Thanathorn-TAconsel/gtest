@@ -1,3 +1,7 @@
 Hello
 This is Branch two
+<<<<<<< HEAD
 This aipnfpa
+=======
+This is Branch A
+>>>>>>> 3ac31260b6f203d39e02c470b0012b722cc43a6f
